@@ -1,0 +1,4 @@
+2021-Oct-26 16:36:18,648 [main] com.testingshastra.util.TestListener 
+  INFO  Test is failed.Taking screenshot
+2021-Oct-26 16:36:19,831 [main] com.testingshastra.util.TestListener 
+  INFO  Screenshot issaved succesfully
